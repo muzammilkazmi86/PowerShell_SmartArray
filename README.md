@@ -11,6 +11,7 @@
 ## Execute
 - Run command: .\foodarray.ps1
 - Run it multiple times to see the difference of how the top most array value moves to the very bottom automatically.
+- The text files in this script will be used to cycle the array.
 
 ## Sample Output
 - First Run Sample
